@@ -1,5 +1,3 @@
-import date
-
 def daysOfWeek(days):
     days = days/7
     weekEnds = days * 2
